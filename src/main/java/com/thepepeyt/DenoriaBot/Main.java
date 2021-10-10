@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Main{
 
-    public static String token = "ODgyNjMzMTU5NjU1NzE4OTYy.YS-OLw.Mb1sbboinrGSwIPoUyoOnmajzmk";
+    public static String token = "";
     final static Catnip catnip = Catnip.catnip(token);
 
 
