@@ -1,0 +1,70 @@
+whitelist: false
+
+
+#Wiadomość gdy gracz nie ma potrzebnej permisji lub danej rasy,klasy aby wykonać tą komende
+
+Brak-Permisji: "<gold><bold>Denoria</bold></gold><#a9a9a9> | <gray> Nie masz dostatecznych permisji aby użyć tej komendy</gray>"
+
+wl-dodaj: "<gold><bold>Denoria <#a9a9a9> | <gray> Pomyślnie dodano &a{player}&7 na whiteliste"
+
+wl-usun: "<gold><bold>Denoria <#a9a9a9>| <gray>Pomyślnie usunięto <green>{player} z whitelisty"
+
+zla-klasa: "<gold><bold>Denoria <#a9a9a9>| <gray>Abyć użyć tego przedmiotu musisz mieć profesje o nazwie <green>{profesja}"
+
+zle-uzycie: "<gold><bold>Denoria <#a9a9a9>| <gray>Użyj tej komendy w ten sposób{NOWALINIA}{poprawne}"
+
+sztylet-dmg: "3"
+
+#wiadomos gdy wlaczony zostanie specjalny ruch dla danej klasy
+
+berserker: "&6&lDenoria&8 | &7Twój tryb berserkera został włączony"
+
+zla-rasa: "&6&lDenoria&8 | &7Abyć użyć tego przedmiotu musisz mieć rase o nazwie {rasa}"
+
+#Wiadomość gdy pomyślnie zostanie wykonana komenda
+
+pomyslnie: "&6&lDenoria&8 | &7{wiadomosc}"
+
+ustaw-klasa: "&6&lDenoria&8 | &7Pomyślnie ustawiono profesje na {profesja}"
+
+#Format chatu
+
+chat-format: "%vault_rank% <red>{player} <aqua>>>> <white>{wiadomosc}"
+
+vip-format:   "Vipek <red>{player} <aqua>>>> <white>{wiadomosc}"
+
+#Wiadomość po zespawnieniu meteorytu
+
+meteoryt: "&6&lDenoria&8 | &7Meteoryt na kordach {kordy} spadł na ziemie"
+
+#ID kanału na które przychodzą powiadomienia
+
+discord-kanal: "884176303874510888"
+
+
+#koordyanty pod meteoryt
+
+#losowa X pomiedzy max a min
+Max-X: "3000"
+Min-X: "100"
+
+#losowa Z pomiedzy max a min
+
+Max-Z: "3000"
+Min-Z: "100"
+
+#powitanie dla każdej rasy
+
+powitanie-goblin: "Potężny goblin %player_name% dołączył na serwer"
+powitanie-ork: "Potężny ork %player_name% dołączył na serwer"
+powitanie-krasnolud: "Potężny krasnolud %player_name% dołączył na serwer"
+powitanie-troll: "Potężny krasnolud %player_name% dołączył na serwer"
+powitanie-człowiek: "Potężny człowiek %player_name% dołączył na serwer"
+powitanie-demon: "Potężny demon %player_name% dołączył na serwer"
+powitanie-elf: "Potężny elf %player_name% dołączył na serwer"
+powitanie-nic: "Nijaki %player_name% dolaczyl na serwer"
+
+
+
+
+
