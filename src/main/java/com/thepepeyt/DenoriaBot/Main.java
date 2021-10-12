@@ -16,7 +16,7 @@ import java.io.IOException;
 
 public class Main{
 
-    public static String token = "ODgyNjMzMTU5NjU1NzE4OTYy.YS-OLw.GyWSinHfn42I36IT1zM62vE0hog";
+    public static String token = "";
     final static Catnip catnip = Catnip.catnip(token);
 
 
